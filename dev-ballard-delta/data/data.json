@@ -1,0 +1,41 @@
+[
+    {   
+        "location" : "Southwest",
+        "status" : "Published",
+        "city" : "Albuquerque",
+        "notes" : "See the sites of Albuquerque, Phoenix, and Las Vegas.", 
+        "tags" : ["#Exploration", "#Desert"]
+    },
+    
+    {   
+        "location" : "",
+        "status" : "Published",
+        "city" : "",
+        "notes" : ".", 
+        "tags" : ["#", "#"]
+    },
+
+
+{   
+        "location" : "",
+        "status" : "Published",
+        "city" : "",
+        "notes" : ".", 
+        "tags" : ["#", "#"]
+    },
+
+    {   
+        "location" : "",
+        "status" : "Published",
+        "city" : "",
+        "notes" : ".", 
+        "tags" : ["#", "#"]
+    }
+
+
+
+]
+
+
+ 
+         
