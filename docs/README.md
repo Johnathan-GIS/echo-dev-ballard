@@ -60,7 +60,7 @@ GitHub repository URL
  GCP static external IP Address 
  34.173.171.38
  A link showing my SSH connection
- https://console.cloud.google.com/compute/instancesDetail/zones/us-central1-c/instances/instance-cis-376-echo-johnathan-ballard?project=analog-pilot-472419-v7
+ https://github.com/Johnathan-GIS/echo-dev-ballard/issues/1
  
  
  
