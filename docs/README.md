@@ -54,7 +54,7 @@ new-dev-ballard/
 GitHub repository URL
  https://github.com/Johnathan-GIS/echo-dev-ballard
  GitHub Pages application URL
- https://johnathan-gis.github.io/echo-dev-ballard/ 
+ https://johnathan-gis.github.io/dev-delta-ballard-1.0/ 
  GCP HTTPS subdomain URL 
  https://console.cloud.google.com/compute/instances?project=analog-pilot-472419-v7
  GCP static external IP Address 
